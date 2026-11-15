@@ -21,15 +21,6 @@
 
 ### 🚀 Featured projects
 
-<p align="center">
-  <a href="https://github.com/Ipsedo/MARLClassification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ipsedo&repo=MARLClassification&hide_border=true" /></a>
-  <a href="https://github.com/Ipsedo/LiquidNetworks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ipsedo&repo=LiquidNetworks&hide_border=true" /></a>
-  <a href="https://github.com/Ipsedo/EvoMotion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ipsedo&repo=EvoMotion&hide_border=true" /></a>
-  <a href="https://github.com/Ipsedo/ArenAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ipsedo&repo=ArenAI&hide_border=true" /></a>
-  <a href="https://github.com/Ipsedo/MusicDiffusion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ipsedo&repo=MusicDiffusion&hide_border=true" /></a>
-  <a href="https://github.com/Ipsedo/IterativeMachineTeaching"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ipsedo&repo=IterativeMachineTeaching&hide_border=true" /></a>
-</p>
-
 | Project | What it is |
 |---|---|
 | 🧩 [**MARLClassification**](https://github.com/Ipsedo/MARLClassification) | Image classification with multi-agent reinforcement learning |
@@ -57,6 +48,6 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ipsedo&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ipsedo&layout=compact&hide_border=true&langs_count=6" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ipsedo&theme=github" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ipsedo&theme=github" />
 </p>
