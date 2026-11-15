@@ -48,6 +48,17 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ipsedo&theme=github" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ipsedo&theme=github" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ipsedo&theme=github_dark">
+  <img alt="GitHub stats"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ipsedo&theme=github">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ipsedo&theme=github_dark">
+  <img alt="Most commit language"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ipsedo&theme=github">
+</picture>
 </p>
